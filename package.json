@@ -1,0 +1,13 @@
+{
+  "id": "spotify",
+  "name": "Spotify",
+  "version": "1.0.0",
+  "description": "Spotify",
+  "main": "index.js",
+  "author": "Nick Morozov",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://open.spotify.com/",
+    "hasNotificationSound": true
+  }
+}
